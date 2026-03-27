@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x1c0D71ed2D309E012D416E5025b32bB41559D8cb",
+    "worker": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "oracle": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "fundsRegistered": "0",
+    "terms": "bafkreigjokjc775uq75cv4n4wjsy4uofgwb3c7mi7epkpci2x6b26f3is4"
+  },
+  {
+    "address": "0x85D2355864CA1Bd94787586b1d7D69A106E1E51F",
+    "worker": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "oracle": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "fundsRegistered": "180000000000000000000",
+    "terms": "QmSHFFRfhLh5vpWp1AzQcC7wpPLVJoBQkXeQFuWdGuHwT7"
+  },
+  {
+    "address": "0xC58e4c2b9Ed96CEBD58A45EB0d8379A1C87eb740",
+    "worker": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "oracle": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "fundsRegistered": "120000000000000000000",
+    "terms": "QmS4QeQwRhR1UTynbbS5MvfaKiFkPRbo4yA4N1pcvRUF2s"
+  },
+  {
+    "address": "0x37af615FCdDc71De957aAbbe90Da7A27b4718DD5",
+    "worker": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "oracle": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "fundsRegistered": "0",
+    "terms": "QmUPckKQyqD5PmH9aRuJ5HCvJAqNFKBJ1ncwhW2pDDzUmu"
+  },
+  {
+    "address": "0xCdF42BA97757C4283cd53bbc112f2FC7616b6200",
+    "worker": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "oracle": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "fundsRegistered": "350000000000000000000",
+    "terms": "QmaB6aci3NGvAJGwjsRrHi5hKGVAZkKdn8DLzShjBPpFsX"
+  }
+]

@@ -1,0 +1,41 @@
+# local symlinks
+evm-camp
+
+# keys
+.env*
+
+# dependencies
+node_modules
+
+# eslint
+.eslintcache
+
+# misc
+.DS_Store
+
+# IDE
+.vscode
+.idea
+.cursor
+.ctags
+.tags
+
+# cli
+dist
+
+# hardhat
+packages/chain/artifacts
+packages/chain/cache
+packages/chain/typechain-types
+packages/chain/coverage
+packages/chain/coverage.json
+
+# documentation (work in progress)
+docs/chain/
+docs/frontend/
+
+# slither
+packages/chain/venv
+
+# archive
+archive

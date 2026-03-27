@@ -1,0 +1,21 @@
+{
+  "name": "work-fund-lab",
+  "version": "0.0.3",
+  "description": "A decentralized crowdfunding platform on Ethereum: workers propose work and lock terms on-chain (stored on IPFS), funders deposit ERC20 tokens to support the work, and oracles cryptographically review terms and authorize milestone payouts via EIP-712 signatures.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "patch-package",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hong Wang  (https://github.com/hw053168)",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "workspaces": [
+    "packages/chain",
+    "packages/dapp"
+  ],
+  "dependencies": {
+    "patch-package": "^8.0.1"
+  }
+}
