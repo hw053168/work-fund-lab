@@ -12,6 +12,22 @@ nvm use 24
 npm install
 ```
 
+## Local Run (Dapp)
+
+The web app used by the local gateway runs from `packages/dapp`.
+
+```bash
+cd packages/dapp
+PORT=3001 npm run dev
+# -> http://localhost:3001
+```
+
+## Repository Docs
+
+- Dapp README: [packages/dapp/README.md](packages/dapp/README.md)
+- Contracts package: [packages/chain/README.md](packages/chain/README.md)
+- Additional project docs: [docs/](docs/)
+
 ## Tech Stack
 
 - **Smart Contracts**: [HardHatv3](https://hardhat.org/)
